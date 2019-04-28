@@ -1,0 +1,4 @@
+1. Write your query in 'query.txt'
+2. Run app.py
+3. Write your K in runtime
+4. Check the result out.
